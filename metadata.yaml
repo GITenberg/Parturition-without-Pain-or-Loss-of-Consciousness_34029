@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36689'
     url: http://www.gutenberg.org/2009/agents/36689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34029#Parturition-without-Pain-or-Loss-of-Consciousness
 gutenberg_issued: '2010-10-04'
 gutenberg_type: Text
 identifiers:
